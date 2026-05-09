@@ -356,15 +356,6 @@ MyDrive/NLP/
 4. **Thứ tự chạy**: Phải chạy theo đúng thứ tự preprocessing → embedding → finetune → demo.
 5. **Session timeout**: Nếu Colab ngắt session, chỉ cần chạy lại từ notebook hiện tại (dữ liệu đã được lưu trên Drive).
 
----
-
-## 👥 Thành viên nhóm
-
-| MSSV | Họ và Tên |
-|------|----------|
-| 52300140 | *(Thành viên 1)* |
-| 52300142 | *(Thành viên 2)* |
-| 52300197 | *(Thành viên 3)* |
 
 ---
 
